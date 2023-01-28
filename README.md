@@ -9,4 +9,6 @@ Hardware :
  - DS18B20 Temperature sensor
  - 4.7K Resistor
 
+Wiring:
 
+![image](https://user-images.githubusercontent.com/45521085/215286584-3091ae61-5d34-45d6-b725-eec5647df94c.png)
